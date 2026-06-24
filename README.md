@@ -7,7 +7,7 @@ Ce dépôt ne contient aucune logique applicative ni de génération de factures
 il s'agit uniquement de la page d'accueil marketing du projet, qui renvoie
 vers l'application de démonstration hébergée séparément (dépôt
 [`facturier-app`](https://github.com/sepp67/facturier-app)).
-Vous pouvez consulter cette landing page sur [`facturier.lavallee.tech`](https://facturier.lavallee.tech)).
+Vous pouvez consulter la landing page sur [`facturier.lavallee.tech`](https://facturier.lavallee.tech).
 ## Contenu
 
 ```
